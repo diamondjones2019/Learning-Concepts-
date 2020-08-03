@@ -1,0 +1,38 @@
+/*User privileges*/
+create user my_user identified by 'password';
+create user my_admin identified by 'password';
+
+
+/*Permission*/
+grant all
+on classicmodels.*
+to my_admin;
+
+
+grant select, insert, delete, update:
+on classicmodels.* 
+to my_user
+
+
+/*Present Grants*/
+show grants;
+
+
+/*Admin permission*/
+see what permission you gave to your admin user: 
+show grants for my_admin;
+
+
+/*User permission*/
+show grants for my_user;
+
+
+/*Locate users access*/
+select *
+from mysql.user;
+
+
+/*Revoke*/
+revoke select, insert, delete, update
+on classicmodels.*
+from my_user;
