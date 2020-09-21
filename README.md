@@ -6,7 +6,3 @@ Learning the basic SQL Concepts using PAYMENT DATABASE TABLE
 3. Joins 
 4. Union and Union All
 5. Date and time processing 
-6. String processing
-7. Subquery 
-8. View and index
-9. Common Table Expression (CTE)
