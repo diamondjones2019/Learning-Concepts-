@@ -1,5 +1,5 @@
 # Learning-SQL-Concepts-
-Learning the basic SQL Concepts such as: 
+Learning the basic SQL Concepts using PAYMENT DATABASE TABLE  
 
 1. Aggregate functions 
 2. Group by & Order by
