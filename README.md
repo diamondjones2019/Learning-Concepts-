@@ -6,3 +6,6 @@ Learning the basic SQL Concepts using PAYMENT DATABASE TABLE
 3. Joins 
 4. Union and Union All
 5. Date and time processing 
+
+
+# NOTE: Used pgAdmin-4 tool for Postgres SQL 
