@@ -8,4 +8,4 @@ Learning the basic SQL Concepts using PAYMENT DATABASE TABLE
 5. Date and time processing 
 
 
-# NOTE: Used pgAdmin-4 tool for Postgres SQL 
+# NOTE: Used mySQL & pgAdmin-4 tool for Postgres SQL 
